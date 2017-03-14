@@ -1,4 +1,4 @@
 # DSA
 Репозиторий курсового проекта "Архитектуры ПО"
 
-[a link](https://github.com/AntonKiselyov/BTB/wiki/Report)Отчет по работе
+[Отчет по работе](https://github.com/VasilyShaytan/DSA/wiki/Report)
